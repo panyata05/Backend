@@ -17,5 +17,3 @@
 git clone https://github.com/yourusername/fibonacci-api.git
 cd fibonacci-api
 
-npm install
-node index.js
