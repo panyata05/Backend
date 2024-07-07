@@ -1,18 +1,21 @@
 # Fibonacci API
 
-This project is a simple Node.js application that provides an API to calculate the Fibonacci sequence up to a specified number of members.
+โปรเจคนี้เป็นแอปพลิเคชัน Node.js ง่ายๆ ที่ให้ API สำหรับคำนวณลำดับฟีโบนัชชีจนถึงจำนวนสมาชิกที่กำหนด
 
-## Getting Started
+## เริ่มต้นใช้งาน
 
-### Prerequisites
+### ข้อกำหนดเบื้องต้น
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
+- [Node.js](https://nodejs.org/) (เวอร์ชัน 14 หรือสูงกว่า)
 - [npm](https://www.npmjs.com/)
 
-### Installation
+### การติดตั้ง
 
-1. Clone the repository:
+1. โคลนรีโพซิทอรี:
 
 ```bash
 git clone https://github.com/yourusername/fibonacci-api.git
 cd fibonacci-api
+
+npm install
+node index.js
