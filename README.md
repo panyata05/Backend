@@ -1,6 +1,7 @@
 # การติดตั้ง
 
 - [Node.js](https://nodejs.org/)
+- [Postman](https://www.postman.com/downloads/)
 ## เริ่มต้นใช้งาน
 
 1.ทำการติดตั้ง
