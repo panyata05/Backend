@@ -22,7 +22,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
 1. Clone the repository:
     ```bash
     git clone https://github.com/panyata05/Backend.git
-    cd Backend
+    
     ```
 
 2. Install dependencies:
