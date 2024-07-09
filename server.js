@@ -1,8 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
-
-// ฟังก์ชันคำนวณลำดับฟีโบนัชชี
+// เรียกFibonacci
 const fibonacci = require('./fibonacci');
 
 // Route สำหรับ API
@@ -24,6 +22,6 @@ app.get('/api/v1/test/:memberCount', (req, res) => {
 });
 
 // เริ่มเซิร์ฟเวอร์
-app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
-});
+app.listen(3000, () => {
+    console.log(`Server running at http://localhost:3000`);
+})
