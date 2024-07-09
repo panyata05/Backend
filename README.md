@@ -54,7 +54,7 @@ The Fibonacci sequence is a series of numbers where each number is the sum of th
     "total": 33
 }
 ```
-## Credits
+## Information Sources
 - [Fibonacci principle](https://www.rapidtables.org/th/math/number/fibonacci.html)
 - [Fibonacci Sequence(JavaScript)](https://www.programiz.com/javascript/examples/fibonacci-series)
 - [แนวออกแบบ RESTful API| by Phayao Boonon | Medium](https://phayao.medium.com/%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B9%81%E0%B8%9A%E0%B8%9A-restful-api-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%94%E0%B8%B5-c320d806e30b)
